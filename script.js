@@ -21,7 +21,7 @@ function showMessage(response) {
 
     // Update text content and hide name message
     document.getElementById("question").textContent =
-      "Бутона Не, е само за красота";
+      "Бут она Не, е само за красот а";
     document.getElementById("name").style.display = "none";
 
     // Optional: You can also add a timeout to reset the position after a few seconds
